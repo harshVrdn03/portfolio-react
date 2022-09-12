@@ -14,10 +14,10 @@ const Home = () => {
         </h1>
         <h1 className="text-xl font-bold text-black">798312**44</h1>
         <Link
-          to="/contact"
+          to="/about"
           className="z-10 text-yellow-300 bg-black inline-block text-center p-2 font-bold rounded-xl text-2xl"
         >
-          Contact
+          About
         </Link>
       </div>
       <div className="flex justify-center items-center">
