@@ -3,7 +3,7 @@ import { AiFillGithub, AiFillLinkedin } from "react-icons/ai";
 const About = () => {
   return (
     <div className="h-[90vh]">
-      <div className="flex items-center justify-center w-[80%] mx-auto p-8">
+      <div className="flex items-center justify-center w-[80%] mx-auto p-8 overflow-hidden">
         <img
           src={require("../components/images/signature (1).png")}
           className="scale-[2]"
