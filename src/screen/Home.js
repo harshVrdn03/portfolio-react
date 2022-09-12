@@ -23,7 +23,7 @@ const Home = () => {
       <div className="flex justify-center items-center">
         <img
           src={signature}
-          className="scale-[6] md:scale-[4] -rotate-[90deg] md:-rotate-[40deg] border-4 "
+          className="scale-[6] md:scale-[4] -rotate-[90deg] md:-rotate-[40deg] "
           alt=""
         />
       </div>
