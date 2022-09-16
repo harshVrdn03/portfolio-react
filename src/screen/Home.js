@@ -9,7 +9,7 @@ const Home = () => {
         <h1 className=" text-4xl md:text-8xl font-bold text-black">
           HARSH <span className="text-gray-600 text-3xl">here</span>
         </h1>
-        <h1 className="text-xl font-semibold text-black">
+        <h1 className="text-xl font-semibold text-black whitespace-nowrap ">
           Programmer/Web-Developer
         </h1>
         <Link
